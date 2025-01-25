@@ -1,15 +1,13 @@
 <h1 align="center">Hello 🌸</h1>
 <p align="center">Hello, I'm Nikolas and I'm a Brazilian developer.</p>
 
-<br>
-
 ## Hobbies
 - 🏀 Basketball
 - 📺 Anime
 - 🎵 Listen to music
 - 🍿 Watch movies and series
 
-<h3 align="center">Languages</h3>
+<h2 align="center">Languages</h2>
 
 <div style="display: inline_block" align="center" <br/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
@@ -24,7 +22,7 @@
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolasmonteiro04&layout=compact">
 </div>
 
-<br>
+
 <h1></h1>
 
 <div align="center">
