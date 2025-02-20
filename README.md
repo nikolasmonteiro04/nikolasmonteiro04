@@ -1,4 +1,7 @@
 <h1 align="center">Hello 🌸</h1>
+<p align="center">
+<a href="#"><img width="50%" height="50%" src="https://i.imgur.com/35T5m30.png" height="175px"/></a>
+</p>
 <p align="center">Hello, I'm Nikolas and I'm a Brazilian developer.</p>
 
 ## Hobbies
